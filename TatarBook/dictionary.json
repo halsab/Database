@@ -1,6 +1,18 @@
 {
-    "version": "0.0.1",
+    "version": "0.1.0",
     "content": [
+        {
+            "tatar": "мәчет",
+            "oldTatar": "مسجد"
+        },
+        {
+            "tatar": "сират",
+            "oldTatar": "صراط"
+        },
+        {
+            "tatar": "тәһарәт",
+            "oldTatar": "طهارت"
+        },
         {
             "tatar": "имля",
             "oldTatar": "اِملا"
