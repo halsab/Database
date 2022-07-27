@@ -1,6 +1,142 @@
 {
-    "version": "0.0.1",
+    "version": "0.1.0",
     "content": [
+        {
+            "tatar": "тәһарәт",
+            "oldTatar": "طهارت"
+        },
+        {
+            "tatar": "сират",
+            "oldTatar": "صراط"
+        },
+        {
+            "tatar": "мәчет",
+            "oldTatar": "مسجد"
+        },
+        {
+            "tatar": "суфи",
+            "oldTatar": "صوفي"
+        },
+        {
+            "tatar": "әүлия",
+            "oldTatar": "اوليا"
+        },
+        {
+            "tatar": "мәхшәр",
+            "oldTatar": "محشر"
+        },
+        {
+            "tatar": "фидия",
+            "oldTatar": "فديه"
+        },
+        {
+            "tatar": "гөсел",
+            "oldTatar": "غسل"
+        },
+        {
+            "tatar": "гыйбадәт",
+            "oldTatar": "عبادت"
+        },
+        {
+            "tatar": "гает",
+            "oldTatar": "عيد"
+        },
+        {
+            "tatar": "имам",
+            "oldTatar": "اِمام"
+        },
+        {
+            "tatar": "Тәгалә",
+            "oldTatar": "الله"
+        },
+        {
+            "tatar": "ахирәт",
+            "oldTatar": "آخرت"
+        },
+        {
+            "tatar": "намаз",
+            "oldTatar": "نماز"
+        },
+        {
+            "tatar": "мөфти",
+            "oldTatar": "مفتي"
+        },
+        {
+            "tatar": "шәригать",
+            "oldTatar": "شريعت"
+        },
+        {
+            "tatar": "хаҗи",
+            "oldTatar": "حاجي"
+        },
+        {
+            "tatar": "хаҗ",
+            "oldTatar": "حج"
+        },
+        {
+            "tatar": "әфсен",
+            "oldTatar": "افسون"
+        },
+        {
+            "tatar": "иман",
+            "oldTatar": "اِيمان"
+        },
+        {
+            "tatar": "мәҗүси",
+            "oldTatar": "مجوسي"
+        },
+        {
+            "tatar": "сәдака",
+            "oldTatar": "صدقه"
+        },
+        {
+            "tatar": "хафиз",
+            "oldTatar": "حافظ"
+        },
+        {
+            "tatar": "савап",
+            "oldTatar": "ثواب"
+        },
+        {
+            "tatar": "кыямәт",
+            "oldTatar": "قایمت"
+        },
+        {
+            "tatar": "мөселман",
+            "oldTatar": "مسلمان"
+        },
+        {
+            "tatar": "мөхәммәт",
+            "oldTatar": "محمـد"
+        },
+        {
+            "tatar": "ходай",
+            "oldTatar": "حدا"
+        },
+        {
+            "tatar": "фәрештә",
+            "oldTatar": "فرشته"
+        },
+        {
+            "tatar": "пәйгамбәр",
+            "oldTatar": "پیعمبر"
+        },
+        {
+            "tatar": "руза",
+            "oldTatar": "روزه"
+        },
+        {
+            "tatar": "гөнаһ",
+            "oldTatar": "گناه"
+        },
+        {
+            "tatar": "дәрвиш",
+            "oldTatar": "درویش"
+        },
+        {
+            "tatar": "чапан",
+            "oldTatar": "چاپان"
+        },
         {
             "tatar": "имля",
             "oldTatar": "اِملا"
@@ -136,6 +272,762 @@
         {
             "tatar": "шәкерт",
             "oldTatar": "شاکرد"
+        },
+        {
+            "tatar": "иҗат",
+            "oldTatar": "اِيجاد"
+        },
+        {
+            "tatar": "тасвир",
+            "oldTatar": "تَصوير"
+        },
+        {
+            "tatar": "әдип",
+            "oldTatar": "اَديب"
+        },
+        {
+            "tatar": "әдәбият",
+            "oldTatar": "اَدبيات"
+        },
+        {
+            "tatar": "әсәр",
+            "oldTatar": "اَثر"
+        },
+        {
+            "tatar": "шигърият",
+            "oldTatar": "شعرِيات"
+        },
+        {
+            "tatar": "шагыйрь",
+            "oldTatar": "شاعر"
+        },
+        {
+            "tatar": "робагый",
+            "oldTatar": "رباعي"
+        },
+        {
+            "tatar": "дастан",
+            "oldTatar": "داستان"
+        },
+        {
+            "tatar": "баб",
+            "oldTatar": "باب"
+        },
+        {
+            "tatar": "мәснәви",
+            "oldTatar": "مثنوي"
+        },
+        {
+            "tatar": "касидә",
+            "oldTatar": "قصيده"
+        },
+        {
+            "tatar": "газәл",
+            "oldTatar": "عزل"
+        },
+        {
+            "tatar": "сурәт",
+            "oldTatar": "صورت"
+        },
+        {
+            "tatar": "сәнгать",
+            "oldTatar": "صنعت"
+        },
+        {
+            "tatar": "мәкаль",
+            "oldTatar": "مقال"
+        },
+        {
+            "tatar": "мәкалә",
+            "oldTatar": "مقاله"
+        },
+        {
+            "tatar": "матбугат",
+            "oldTatar": "مطبوعات"
+        },
+        {
+            "tatar": "мәрсия",
+            "oldTatar": "مرثيه"
+        },
+        {
+            "tatar": "нәшрият",
+            "oldTatar": "نشريات"
+        },
+        {
+            "tatar": "мөкаддимә",
+            "oldTatar": "مُقَدَّمه"
+        },
+        {
+            "tatar": "нәсер",
+            "oldTatar": "نثر"
+        },
+        {
+            "tatar": "мәдәният",
+            "oldTatar": "مدنیت"
+        },
+        {
+            "tatar": "инсаф",
+            "oldTatar": "اِنصاف"
+        },
+        {
+            "tatar": "шөбһә",
+            "oldTatar": "شبهه"
+        },
+        {
+            "tatar": "зиһен",
+            "oldTatar": "ذهن"
+        },
+        {
+            "tatar": "завык",
+            "oldTatar": "ذوق"
+        },
+        {
+            "tatar": "хафа",
+            "oldTatar": "خفا"
+        },
+        {
+            "tatar": "хәсрәт",
+            "oldTatar": "خسرت"
+        },
+        {
+            "tatar": "хис",
+            "oldTatar": "حس"
+        },
+        {
+            "tatar": "хәер",
+            "oldTatar": "خير"
+        },
+        {
+            "tatar": "хыял",
+            "oldTatar": "خيال"
+        },
+        {
+            "tatar": "хәвеф",
+            "oldTatar": "خوف"
+        },
+        {
+            "tatar": "ихтирам",
+            "oldTatar": "اِحترام"
+        },
+        {
+            "tatar": "золым",
+            "oldTatar": "ظلم"
+        },
+        {
+            "tatar": "зар",
+            "oldTatar": "زار"
+        },
+        {
+            "tatar": "хәйлә",
+            "oldTatar": "حيله"
+        },
+        {
+            "tatar": "хәйран",
+            "oldTatar": "خيران"
+        },
+        {
+            "tatar": "игълан",
+            "oldTatar": "اِعلان"
+        },
+        {
+            "tatar": "игътибар",
+            "oldTatar": "اِعتبار"
+        },
+        {
+            "tatar": "ихлас",
+            "oldTatar": "اِخلاص"
+        },
+        {
+            "tatar": "ихтияр",
+            "oldTatar": "اِختيار"
+        },
+        {
+            "tatar": "ихтыяҗ",
+            "oldTatar": "اِحتياج"
+        },
+        {
+            "tatar": "сабыр",
+            "oldTatar": "صبر"
+        },
+        {
+            "tatar": "дикъкать",
+            "oldTatar": "دقَّت"
+        },
+        {
+            "tatar": "дәгъва",
+            "oldTatar": "دعوا"
+        },
+        {
+            "tatar": "тәэсир",
+            "oldTatar": "تأثير"
+        },
+        {
+            "tatar": "өмет",
+            "oldTatar": "اميد"
+        },
+        {
+            "tatar": "гореф",
+            "oldTatar": "عرف"
+        },
+        {
+            "tatar": "гөзер",
+            "oldTatar": "عذر"
+        },
+        {
+            "tatar": "гыйбрәт",
+            "oldTatar": "عبرت"
+        },
+        {
+            "tatar": "гадәт",
+            "oldTatar": "عادت"
+        },
+        {
+            "tatar": "гаҗиз",
+            "oldTatar": "عاجز"
+        },
+        {
+            "tatar": "кәеф",
+            "oldTatar": "كيف"
+        },
+        {
+            "tatar": "фикер",
+            "oldTatar": "فكر"
+        },
+        {
+            "tatar": "кодрәт",
+            "oldTatar": "قدرت"
+        },
+        {
+            "tatar": "гайбәт",
+            "oldTatar": "غيبت"
+        },
+        {
+            "tatar": "гашыйк",
+            "oldTatar": "عاشق"
+        },
+        {
+            "tatar": "мәкер",
+            "oldTatar": "مكر"
+        },
+        {
+            "tatar": "ләззәт",
+            "oldTatar": "لذت"
+        },
+        {
+            "tatar": "гайрәт",
+            "oldTatar": "غيرت"
+        },
+        {
+            "tatar": "кыямәт",
+            "oldTatar": "قيامت"
+        },
+        {
+            "tatar": "кувәт",
+            "oldTatar": "قوت"
+        },
+        {
+            "tatar": "мәрхәмәт",
+            "oldTatar": "مرحمت"
+        },
+        {
+            "tatar": "морад",
+            "oldTatar": "مراد"
+        },
+        {
+            "tatar": "мөхтәрәм",
+            "oldTatar": "محترم"
+        },
+        {
+            "tatar": "мохтаҗ",
+            "oldTatar": "محتاج"
+        },
+        {
+            "tatar": "мәнфәгать",
+            "oldTatar": "منفعت"
+        },
+        {
+            "tatar": "мөгамәлә",
+            "oldTatar": "معامله"
+        },
+        {
+            "tatar": "мәзлүм",
+            "oldTatar": "مظلوم"
+        },
+        {
+            "tatar": "мескен",
+            "oldTatar": "مسكين"
+        },
+        {
+            "tatar": "һәвәс (теләк)",
+            "oldTatar": "هوس"
+        },
+        {
+            "tatar": "вәсвәсә",
+            "oldTatar": "وسوسه"
+        },
+        {
+            "tatar": "ният",
+            "oldTatar": "نيت"
+        },
+        {
+            "tatar": "нәфес",
+            "oldTatar": "نفس"
+        },
+        {
+            "tatar": "намус",
+            "oldTatar": "ناموس"
+        },
+        {
+            "tatar": "әмәл",
+            "oldTatar": "امل"
+        },
+        {
+            "tatar": "тәртип",
+            "oldTatar": "ترتـيـب"
+        },
+        {
+            "tatar": "халык",
+            "oldTatar": "خـَـلـْـق"
+        },
+        {
+            "tatar": "әдәп",
+            "oldTatar": "ادب"
+        },
+        {
+            "tatar": "әхлакъ",
+            "oldTatar": "اخلاق"
+        },
+        {
+            "tatar": "рәхәт",
+            "oldTatar": "راحـت"
+        },
+        {
+            "tatar": "хөрмәт",
+            "oldTatar": "حـرمـت"
+        },
+        {
+            "tatar": "бәхет",
+            "oldTatar": "بحـت"
+        },
+        {
+            "tatar": "дус",
+            "oldTatar": "دوسـت"
+        },
+        {
+            "tatar": "кеше",
+            "oldTatar": "كشى"
+        },
+        {
+            "tatar": "матдә",
+            "oldTatar": "ماده"
+        },
+        {
+            "tatar": "дарья",
+            "oldTatar": "دريا"
+        },
+        {
+            "tatar": "дәвер",
+            "oldTatar": "دور"
+        },
+        {
+            "tatar": "галәм",
+            "oldTatar": "عالم"
+        },
+        {
+            "tatar": "гасыр",
+            "oldTatar": "عصر"
+        },
+        {
+            "tatar": "офык",
+            "oldTatar": "افق"
+        },
+        {
+            "tatar": "шәфәкъ",
+            "oldTatar": "شفق"
+        },
+        {
+            "tatar": "махлүк",
+            "oldTatar": "مخلوق"
+        },
+        {
+            "tatar": "мөхит",
+            "oldTatar": "محيط"
+        },
+        {
+            "tatar": "һава",
+            "oldTatar": "هوا"
+        },
+        {
+            "tatar": "туфан",
+            "oldTatar": "توفان"
+        },
+        {
+            "tatar": "табигать",
+            "oldTatar": "طبيعت"
+        },
+        {
+            "tatar": "табигый",
+            "oldTatar": "طبيعي"
+        },
+        {
+            "tatar": "былбыл",
+            "oldTatar": "بلبل"
+        },
+        {
+            "tatar": "хайван",
+            "oldTatar": "حيوان"
+        },
+        {
+            "tatar": "хәшәрәт",
+            "oldTatar": "حشرات"
+        },
+        {
+            "tatar": "сәгать",
+            "oldTatar": "ساعَت"
+        },
+        {
+            "tatar": "зилзилә",
+            "oldTatar": "زلزله"
+        },
+        {
+            "tatar": "заман",
+            "oldTatar": "زمان"
+        },
+        {
+            "tatar": "дивар",
+            "oldTatar": "دیوار"
+        },
+        {
+            "tatar": "дүшәмбе",
+            "oldTatar": "دوشنبه"
+        },
+        {
+            "tatar": "сишәмбе",
+            "oldTatar": "سِهشَنبه"
+        },
+        {
+            "tatar": "чәршәмбе",
+            "oldTatar": "چهارشنبه"
+        },
+        {
+            "tatar": "пәнҗешәмбе",
+            "oldTatar": "پنجشنبه"
+        },
+        {
+            "tatar": "җомга",
+            "oldTatar": "جمعه"
+        },
+        {
+            "tatar": "шимбә",
+            "oldTatar": "شنبه"
+        },
+        {
+            "tatar": "хөрафат",
+            "oldTatar": "خرافات"
+        },
+        {
+            "tatar": "тантана",
+            "oldTatar": "طنطنه"
+        },
+        {
+            "tatar": "таләп",
+            "oldTatar": "طلب"
+        },
+        {
+            "tatar": "тараф",
+            "oldTatar": "طرف"
+        },
+        {
+            "tatar": "тәбрик",
+            "oldTatar": "تبريك"
+        },
+        {
+            "tatar": "хикмәт",
+            "oldTatar": "حكمت"
+        },
+        {
+            "tatar": "хак",
+            "oldTatar": "حق"
+        },
+        {
+            "tatar": "хәл",
+            "oldTatar": "حال"
+        },
+        {
+            "tatar": "хөрмәт",
+            "oldTatar": "حرمت"
+        },
+        {
+            "tatar": "хәрәкәт",
+            "oldTatar": "حركت"
+        },
+        {
+            "tatar": "сафсата",
+            "oldTatar": "سفسطه"
+        },
+        {
+            "tatar": "сәбәп",
+            "oldTatar": "سبب"
+        },
+        {
+            "tatar": "хәрам",
+            "oldTatar": "حرام"
+        },
+        {
+            "tatar": "хәбәр",
+            "oldTatar": "خبر"
+        },
+        {
+            "tatar": "хәләл",
+            "oldTatar": "حلال"
+        },
+        {
+            "tatar": "шөгыль",
+            "oldTatar": "شغل"
+        },
+        {
+            "tatar": "шөһрәт",
+            "oldTatar": "شهرت"
+        },
+        {
+            "tatar": "шарт",
+            "oldTatar": "شرط"
+        },
+        {
+            "tatar": "сыйфат",
+            "oldTatar": "صفات"
+        },
+        {
+            "tatar": "сәлам",
+            "oldTatar": "سلام"
+        },
+        {
+            "tatar": "җенес",
+            "oldTatar": "جنس"
+        },
+        {
+            "tatar": "җәнҗал",
+            "oldTatar": "جنجال"
+        },
+        {
+            "tatar": "җавап",
+            "oldTatar": "جواب"
+        },
+        {
+            "tatar": "рәвеш",
+            "oldTatar": "روش"
+        },
+        {
+            "tatar": "рөхсәт",
+            "oldTatar": "رخصت"
+        },
+        {
+            "tatar": "афәрин",
+            "oldTatar": "آفرين"
+        },
+        {
+            "tatar": "афәт",
+            "oldTatar": "آفات"
+        },
+        {
+            "tatar": "игълан",
+            "oldTatar": "اِعلان"
+        },
+        {
+            "tatar": "ишарә",
+            "oldTatar": "اِشاره"
+        },
+        {
+            "tatar": "риза",
+            "oldTatar": "رضا"
+        },
+        {
+            "tatar": "бәрәкәт",
+            "oldTatar": "بركت"
+        },
+        {
+            "tatar": "ахыр",
+            "oldTatar": "آخر"
+        },
+        {
+            "tatar": "дәлил",
+            "oldTatar": "دليل"
+        },
+        {
+            "tatar": "дәрәҗә",
+            "oldTatar": "درجه"
+        },
+        {
+            "tatar": "дәхел",
+            "oldTatar": "دخل"
+        },
+        {
+            "tatar": "әмер",
+            "oldTatar": "امر"
+        },
+        {
+            "tatar": "гафләт",
+            "oldTatar": "غفلت"
+        },
+        {
+            "tatar": "гакыл",
+            "oldTatar": "عاقل"
+        },
+        {
+            "tatar": "тараф",
+            "oldTatar": "طرف"
+        },
+        {
+            "tatar": "зарур",
+            "oldTatar": "ضرور"
+        },
+        {
+            "tatar": "зарар",
+            "oldTatar": "ضرر"
+        },
+        {
+            "tatar": "зиннәт",
+            "oldTatar": "زينت"
+        },
+        {
+            "tatar": "лазем",
+            "oldTatar": "لازم"
+        },
+        {
+            "tatar": "фида",
+            "oldTatar": "فدا"
+        },
+        {
+            "tatar": "файда",
+            "oldTatar": "فائده"
+        },
+        {
+            "tatar": "фаҗига",
+            "oldTatar": "فاجعه"
+        },
+        {
+            "tatar": "каһәр",
+            "oldTatar": "قهر"
+        },
+        {
+            "tatar": "карар",
+            "oldTatar": "قرار"
+        },
+        {
+            "tatar": "матәм",
+            "oldTatar": "ماتم"
+        },
+        {
+            "tatar": "мәрхүм",
+            "oldTatar": "مرحوم"
+        },
+        {
+            "tatar": "мәсхәрә",
+            "oldTatar": "مسخره"
+        },
+        {
+            "tatar": "мәхрүм",
+            "oldTatar": "محروم"
+        },
+        {
+            "tatar": "мәҗбүр",
+            "oldTatar": "مجبور"
+        },
+        {
+            "tatar": "мөнәсәбәт",
+            "oldTatar": "مناسبت"
+        },
+        {
+            "tatar": "микъдар",
+            "oldTatar": "مقدار"
+        },
+        {
+            "tatar": "мөшкел",
+            "oldTatar": "مشكل"
+        },
+        {
+            "tatar": "мәшәкать",
+            "oldTatar": "مشقت"
+        },
+        {
+            "tatar": "нәтиҗә",
+            "oldTatar": "نتيجه"
+        },
+        {
+            "tatar": "нахак",
+            "oldTatar": "ناحق"
+        },
+        {
+            "tatar": "мәгънә",
+            "oldTatar": "معنا،"
+        },
+        {
+            "tatar": "мөһим",
+            "oldTatar": "مهم"
+        },
+        {
+            "tatar": "вәхшәт",
+            "oldTatar": "وحشت"
+        },
+        {
+            "tatar": "насыйп",
+            "oldTatar": "نصيب"
+        },
+        {
+            "tatar": "нисбәт",
+            "oldTatar": "نسبت"
+        },
+        {
+            "tatar": "сыйныф",
+            "oldTatar": "صنف"
+        },
+        {
+            "tatar": "гаҗәп",
+            "oldTatar": "عَجَب"
+        },
+        {
+            "tatar": "һәлак",
+            "oldTatar": "هلاک"
+        },
+        {
+            "tatar": "гаҗәиб",
+            "oldTatar": "عجائب"
+        },
+        {
+            "tatar": "шаять",
+            "oldTatar": "شاید"
+        },
+        {
+            "tatar": "мөһим",
+            "oldTatar": "مُهِم"
+        },
+        {
+            "tatar": "әһәмиять",
+            "oldTatar": "اَهَمیَّت"
+        },
+        {
+            "tatar": "мәсәлән",
+            "oldTatar": "مَثلاً"
+        },
+        {
+            "tatar": "әлбәттә",
+            "oldTatar": "البته"
+        },
+        {
+            "tatar": "ниһаять",
+            "oldTatar": "نهایت"
+        },
+        {
+            "tatar": "мал",
+            "oldTatar": "مال"
+        },
+        {
+            "tatar": "сәүдә",
+            "oldTatar": "سودا"
+        },
+        {
+            "tatar": "хуҗа",
+            "oldTatar": "خواجه"
         }
     ]
 }
