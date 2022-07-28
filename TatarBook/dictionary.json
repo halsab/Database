@@ -1,2045 +1,2045 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "content": [
       {
         "tatar": "мәчет",
-        "oldtatar": "مسجد"
+        "oldTatar": "مسجد"
       },
       {
         "tatar": "сират",
-        "oldtatar": "صراط"
+        "oldTatar": "صراط"
       },
       {
         "tatar": "тәһарәт",
-        "oldtatar": "طهارت"
+        "oldTatar": "طهارت"
       },
       {
         "tatar": "имля",
-        "oldtatar": "اِملا"
+        "oldTatar": "اِملا"
       },
       {
         "tatar": "әлифба",
-        "oldtatar": "الفبا"
+        "oldTatar": "الفبا"
       },
       {
         "tatar": "имтихан",
-        "oldtatar": "اِمتحان"
+        "oldTatar": "اِمتحان"
       },
       {
         "tatar": "җәдид",
-        "oldtatar": "جديد"
+        "oldTatar": "جديد"
       },
       {
         "tatar": "хата",
-        "oldtatar": "خطا"
+        "oldTatar": "خطا"
       },
       {
         "tatar": "хат",
-        "oldtatar": "خط"
+        "oldTatar": "خط"
       },
       {
         "tatar": "хисап",
-        "oldtatar": "حساب"
+        "oldTatar": "حساب"
       },
       {
         "tatar": "дәфтәр",
-        "oldtatar": "دفتر"
+        "oldTatar": "دفتر"
       },
       {
         "tatar": "исем",
-        "oldtatar": "اِسم"
+        "oldTatar": "اِسم"
       },
       {
         "tatar": "китап",
-        "oldtatar": "كتاب"
+        "oldTatar": "كتاب"
       },
       {
         "tatar": "кәгазь",
-        "oldtatar": "كاعد"
+        "oldTatar": "كاعد"
       },
       {
         "tatar": "галим",
-        "oldtatar": "عالم"
+        "oldTatar": "عالم"
       },
       {
         "tatar": "каләм",
-        "oldtatar": "قلم"
+        "oldTatar": "قلم"
       },
       {
         "tatar": "гыйлем",
-        "oldtatar": "علم"
+        "oldTatar": "علم"
       },
       {
         "tatar": "сабак",
-        "oldtatar": "سبق"
+        "oldTatar": "سبق"
       },
       {
         "tatar": "мәсьәлә",
-        "oldtatar": "مسئله"
+        "oldTatar": "مسئله"
       },
       {
         "tatar": "мәдрәсә",
-        "oldtatar": "مدرسه"
+        "oldTatar": "مدرسه"
       },
       {
         "tatar": "кәлимә",
-        "oldtatar": "كلمه"
+        "oldTatar": "كلمه"
       },
       {
         "tatar": "китапханә",
-        "oldtatar": "كتابخانه"
+        "oldTatar": "كتابخانه"
       },
       {
         "tatar": "мәктәп",
-        "oldtatar": "مكتب"
+        "oldTatar": "مكتب"
       },
       {
         "tatar": "мәгълүмат",
-        "oldtatar": "معلومات"
+        "oldTatar": "معلومات"
       },
       {
         "tatar": "мөгаллим",
-        "oldtatar": "معلم"
+        "oldTatar": "معلم"
       },
       {
         "tatar": "мәгърифәт",
-        "oldtatar": "معرفت"
+        "oldTatar": "معرفت"
       },
       {
         "tatar": "тарих",
-        "oldtatar": "تاريخ"
+        "oldTatar": "تاريخ"
       },
       {
         "tatar": "тәрбия",
-        "oldtatar": "تربيه"
+        "oldTatar": "تربيه"
       },
       {
         "tatar": "нөсхә",
-        "oldtatar": "نسخه"
+        "oldTatar": "نسخه"
       },
       {
         "tatar": "надан",
-        "oldtatar": "نادان"
+        "oldTatar": "نادان"
       },
       {
         "tatar": "фигыль",
-        "oldtatar": "فعل"
+        "oldTatar": "فعل"
       },
       {
         "tatar": "җөмлә",
-        "oldtatar": "جمله"
+        "oldTatar": "جمله"
       },
       {
         "tatar": "нокта",
-        "oldtatar": "نُقطه"
+        "oldTatar": "نُقطه"
       },
       {
         "tatar": "фән",
-        "oldtatar": "فن"
+        "oldTatar": "فن"
       },
       {
         "tatar": "фәлсәфә",
-        "oldtatar": "فلسفه"
+        "oldTatar": "فلسفه"
       },
       {
         "tatar": "лөгать",
-        "oldtatar": "لغت"
+        "oldTatar": "لغت"
       },
       {
         "tatar": "шәкерт",
-        "oldtatar": "شاکرد"
+        "oldTatar": "شاکرد"
       },
       {
         "tatar": "иҗат",
-        "oldtatar": "اِيجاد"
+        "oldTatar": "اِيجاد"
       },
       {
         "tatar": "тасвир",
-        "oldtatar": "تَصوير"
+        "oldTatar": "تَصوير"
       },
       {
         "tatar": "әдип",
-        "oldtatar": "اَديب"
+        "oldTatar": "اَديب"
       },
       {
         "tatar": "әдәбият",
-        "oldtatar": "اَدبيات"
+        "oldTatar": "اَدبيات"
       },
       {
         "tatar": "әсәр",
-        "oldtatar": "اَثر"
+        "oldTatar": "اَثر"
       },
       {
         "tatar": "шигърият",
-        "oldtatar": "شعرِيات"
+        "oldTatar": "شعرِيات"
       },
       {
         "tatar": "шагыйрь",
-        "oldtatar": "شاعر"
+        "oldTatar": "شاعر"
       },
       {
         "tatar": "робагый",
-        "oldtatar": "رباعي"
+        "oldTatar": "رباعي"
       },
       {
         "tatar": "дастан",
-        "oldtatar": "داستان"
+        "oldTatar": "داستان"
       },
       {
         "tatar": "баб",
-        "oldtatar": "باب"
+        "oldTatar": "باب"
       },
       {
         "tatar": "мәснәви",
-        "oldtatar": "مثنوي"
+        "oldTatar": "مثنوي"
       },
       {
         "tatar": "касидә",
-        "oldtatar": "قصيده"
+        "oldTatar": "قصيده"
       },
       {
         "tatar": "газәл",
-        "oldtatar": "عزل"
+        "oldTatar": "عزل"
       },
       {
         "tatar": "сурәт",
-        "oldtatar": "صورت"
+        "oldTatar": "صورت"
       },
       {
         "tatar": "сәнгать",
-        "oldtatar": "صنعت"
+        "oldTatar": "صنعت"
       },
       {
         "tatar": "мәкаль",
-        "oldtatar": "مقال"
+        "oldTatar": "مقال"
       },
       {
         "tatar": "мәкалә",
-        "oldtatar": "مقاله"
+        "oldTatar": "مقاله"
       },
       {
         "tatar": "матбугат",
-        "oldtatar": "مطبوعات"
+        "oldTatar": "مطبوعات"
       },
       {
         "tatar": "мәрсия",
-        "oldtatar": "مرثيه"
+        "oldTatar": "مرثيه"
       },
       {
         "tatar": "нәшрият",
-        "oldtatar": "نشريات"
+        "oldTatar": "نشريات"
       },
       {
         "tatar": "мөкаддимә",
-        "oldtatar": "مُقَدَّمه"
+        "oldTatar": "مُقَدَّمه"
       },
       {
         "tatar": "нәсер",
-        "oldtatar": "نثر"
+        "oldTatar": "نثر"
       },
       {
         "tatar": "мәдәният",
-        "oldtatar": "مدنیت"
+        "oldTatar": "مدنیت"
       },
       {
         "tatar": "инсаф",
-        "oldtatar": "اِنصاف"
+        "oldTatar": "اِنصاف"
       },
       {
         "tatar": "шөбһә",
-        "oldtatar": "شبهه"
+        "oldTatar": "شبهه"
       },
       {
         "tatar": "зиһен",
-        "oldtatar": "ذهن"
+        "oldTatar": "ذهن"
       },
       {
         "tatar": "завык",
-        "oldtatar": "ذوق"
+        "oldTatar": "ذوق"
       },
       {
         "tatar": "хафа",
-        "oldtatar": "خفا"
+        "oldTatar": "خفا"
       },
       {
         "tatar": "хәсрәт",
-        "oldtatar": "خسرت"
+        "oldTatar": "خسرت"
       },
       {
         "tatar": "хис",
-        "oldtatar": "حس"
+        "oldTatar": "حس"
       },
       {
         "tatar": "хәер",
-        "oldtatar": "خير"
+        "oldTatar": "خير"
       },
       {
         "tatar": "хыял",
-        "oldtatar": "خيال"
+        "oldTatar": "خيال"
       },
       {
         "tatar": "хәвеф",
-        "oldtatar": "خوف"
+        "oldTatar": "خوف"
       },
       {
         "tatar": "ихтирам",
-        "oldtatar": "اِحترام"
+        "oldTatar": "اِحترام"
       },
       {
         "tatar": "золым",
-        "oldtatar": "ظلم"
+        "oldTatar": "ظلم"
       },
       {
         "tatar": "зар",
-        "oldtatar": "زار"
+        "oldTatar": "زار"
       },
       {
         "tatar": "хәйлә",
-        "oldtatar": "حيله"
+        "oldTatar": "حيله"
       },
       {
         "tatar": "хәйран",
-        "oldtatar": "خيران"
+        "oldTatar": "خيران"
       },
       {
         "tatar": "игълан",
-        "oldtatar": "اِعلان"
+        "oldTatar": "اِعلان"
       },
       {
         "tatar": "игътибар",
-        "oldtatar": "اِعتبار"
+        "oldTatar": "اِعتبار"
       },
       {
         "tatar": "ихлас",
-        "oldtatar": "اِخلاص"
+        "oldTatar": "اِخلاص"
       },
       {
         "tatar": "ихтияр",
-        "oldtatar": "اِختيار"
+        "oldTatar": "اِختيار"
       },
       {
         "tatar": "ихтыяҗ",
-        "oldtatar": "اِحتياج"
+        "oldTatar": "اِحتياج"
       },
       {
         "tatar": "сабыр",
-        "oldtatar": "صبر"
+        "oldTatar": "صبر"
       },
       {
         "tatar": "дикъкать",
-        "oldtatar": "دقَّت"
+        "oldTatar": "دقَّت"
       },
       {
         "tatar": "дәгъва",
-        "oldtatar": "دعوا"
+        "oldTatar": "دعوا"
       },
       {
         "tatar": "тәэсир",
-        "oldtatar": "تأثير"
+        "oldTatar": "تأثير"
       },
       {
         "tatar": "өмет",
-        "oldtatar": "اميد"
+        "oldTatar": "اميد"
       },
       {
         "tatar": "гореф",
-        "oldtatar": "عرف"
+        "oldTatar": "عرف"
       },
       {
         "tatar": "гөзер",
-        "oldtatar": "عذر"
+        "oldTatar": "عذر"
       },
       {
         "tatar": "гыйбрәт",
-        "oldtatar": "عبرت"
+        "oldTatar": "عبرت"
       },
       {
         "tatar": "гадәт",
-        "oldtatar": "عادت"
+        "oldTatar": "عادت"
       },
       {
         "tatar": "гаҗиз",
-        "oldtatar": "عاجز"
+        "oldTatar": "عاجز"
       },
       {
         "tatar": "кәеф",
-        "oldtatar": "كيف"
+        "oldTatar": "كيف"
       },
       {
         "tatar": "фикер",
-        "oldtatar": "فكر"
+        "oldTatar": "فكر"
       },
       {
         "tatar": "кодрәт",
-        "oldtatar": "قدرت"
+        "oldTatar": "قدرت"
       },
       {
         "tatar": "гайбәт",
-        "oldtatar": "غيبت"
+        "oldTatar": "غيبت"
       },
       {
         "tatar": "гашыйк",
-        "oldtatar": "عاشق"
+        "oldTatar": "عاشق"
       },
       {
         "tatar": "мәкер",
-        "oldtatar": "مكر"
+        "oldTatar": "مكر"
       },
       {
         "tatar": "ләззәт",
-        "oldtatar": "لذت"
+        "oldTatar": "لذت"
       },
       {
         "tatar": "гайрәт",
-        "oldtatar": "غيرت"
+        "oldTatar": "غيرت"
       },
       {
         "tatar": "кыямәт",
-        "oldtatar": "قيامت"
+        "oldTatar": "قيامت"
       },
       {
         "tatar": "кувәт",
-        "oldtatar": "قوت"
+        "oldTatar": "قوت"
       },
       {
         "tatar": "мәрхәмәт",
-        "oldtatar": "مرحمت"
+        "oldTatar": "مرحمت"
       },
       {
         "tatar": "морад",
-        "oldtatar": "مراد"
+        "oldTatar": "مراد"
       },
       {
         "tatar": "мөхтәрәм",
-        "oldtatar": "محترم"
+        "oldTatar": "محترم"
       },
       {
         "tatar": "мохтаҗ",
-        "oldtatar": "محتاج"
+        "oldTatar": "محتاج"
       },
       {
         "tatar": "мәнфәгать",
-        "oldtatar": "منفعت"
+        "oldTatar": "منفعت"
       },
       {
         "tatar": "мөгамәлә",
-        "oldtatar": "معامله"
+        "oldTatar": "معامله"
       },
       {
         "tatar": "мәзлүм",
-        "oldtatar": "مظلوم"
+        "oldTatar": "مظلوم"
       },
       {
         "tatar": "мескен",
-        "oldtatar": "مسكين"
+        "oldTatar": "مسكين"
       },
       {
         "tatar": "һәвәс (теләк)",
-        "oldtatar": "هوس"
+        "oldTatar": "هوس"
       },
       {
         "tatar": "вәсвәсә",
-        "oldtatar": "وسوسه"
+        "oldTatar": "وسوسه"
       },
       {
         "tatar": "ният",
-        "oldtatar": "نيت"
+        "oldTatar": "نيت"
       },
       {
         "tatar": "нәфес",
-        "oldtatar": "نفس"
+        "oldTatar": "نفس"
       },
       {
         "tatar": "намус",
-        "oldtatar": "ناموس"
+        "oldTatar": "ناموس"
       },
       {
         "tatar": "әмәл",
-        "oldtatar": "امل"
+        "oldTatar": "امل"
       },
       {
         "tatar": "тәртип",
-        "oldtatar": "ترتـيـب"
+        "oldTatar": "ترتـيـب"
       },
       {
         "tatar": "халык",
-        "oldtatar": "خـَـلـْـق"
+        "oldTatar": "خـَـلـْـق"
       },
       {
         "tatar": "әдәп",
-        "oldtatar": "ادب"
+        "oldTatar": "ادب"
       },
       {
         "tatar": "әхлакъ",
-        "oldtatar": "اخلاق"
+        "oldTatar": "اخلاق"
       },
       {
         "tatar": "рәхәт",
-        "oldtatar": "راحـت"
+        "oldTatar": "راحـت"
       },
       {
         "tatar": "хөрмәт",
-        "oldtatar": "حـرمـت"
+        "oldTatar": "حـرمـت"
       },
       {
         "tatar": "бәхет",
-        "oldtatar": "بحـت"
+        "oldTatar": "بحـت"
       },
       {
         "tatar": "дус",
-        "oldtatar": "دوسـت"
+        "oldTatar": "دوسـت"
       },
       {
         "tatar": "кеше",
-        "oldtatar": "كشى"
+        "oldTatar": "كشى"
       },
       {
         "tatar": "матдә",
-        "oldtatar": "ماده"
+        "oldTatar": "ماده"
       },
       {
         "tatar": "дарья",
-        "oldtatar": "دريا"
+        "oldTatar": "دريا"
       },
       {
         "tatar": "дәвер",
-        "oldtatar": "دور"
+        "oldTatar": "دور"
       },
       {
         "tatar": "галәм",
-        "oldtatar": "عالم"
+        "oldTatar": "عالم"
       },
       {
         "tatar": "гасыр",
-        "oldtatar": "عصر"
+        "oldTatar": "عصر"
       },
       {
         "tatar": "офык",
-        "oldtatar": "افق"
+        "oldTatar": "افق"
       },
       {
         "tatar": "шәфәкъ",
-        "oldtatar": "شفق"
+        "oldTatar": "شفق"
       },
       {
         "tatar": "махлүк",
-        "oldtatar": "مخلوق"
+        "oldTatar": "مخلوق"
       },
       {
         "tatar": "мөхит",
-        "oldtatar": "محيط"
+        "oldTatar": "محيط"
       },
       {
         "tatar": "һава",
-        "oldtatar": "هوا"
+        "oldTatar": "هوا"
       },
       {
         "tatar": "туфан",
-        "oldtatar": "توفان"
+        "oldTatar": "توفان"
       },
       {
         "tatar": "табигать",
-        "oldtatar": "طبيعت"
+        "oldTatar": "طبيعت"
       },
       {
         "tatar": "табигый",
-        "oldtatar": "طبيعي"
+        "oldTatar": "طبيعي"
       },
       {
         "tatar": "былбыл",
-        "oldtatar": "بلبل"
+        "oldTatar": "بلبل"
       },
       {
         "tatar": "хайван",
-        "oldtatar": "حيوان"
+        "oldTatar": "حيوان"
       },
       {
         "tatar": "хәшәрәт",
-        "oldtatar": "حشرات"
+        "oldTatar": "حشرات"
       },
       {
         "tatar": "сәгать",
-        "oldtatar": "ساعَت"
+        "oldTatar": "ساعَت"
       },
       {
         "tatar": "зилзилә",
-        "oldtatar": "زلزله"
+        "oldTatar": "زلزله"
       },
       {
         "tatar": "заман",
-        "oldtatar": "زمان"
+        "oldTatar": "زمان"
       },
       {
         "tatar": "дивар",
-        "oldtatar": "دیوار"
+        "oldTatar": "دیوار"
       },
       {
         "tatar": "дүшәмбе",
-        "oldtatar": "دوشنبه"
+        "oldTatar": "دوشنبه"
       },
       {
         "tatar": "сишәмбе",
-        "oldtatar": "سِهشَنبه"
+        "oldTatar": "سِهشَنبه"
       },
       {
         "tatar": "чәршәмбе",
-        "oldtatar": "چهارشنبه"
+        "oldTatar": "چهارشنبه"
       },
       {
         "tatar": "пәнҗешәмбе",
-        "oldtatar": "پنجشنبه"
+        "oldTatar": "پنجشنبه"
       },
       {
         "tatar": "җомга",
-        "oldtatar": "جمعه"
+        "oldTatar": "جمعه"
       },
       {
         "tatar": "шимбә",
-        "oldtatar": "شنبه"
+        "oldTatar": "شنبه"
       },
       {
         "tatar": "хөрафат",
-        "oldtatar": "خرافات"
+        "oldTatar": "خرافات"
       },
       {
         "tatar": "тантана",
-        "oldtatar": "طنطنه"
+        "oldTatar": "طنطنه"
       },
       {
         "tatar": "таләп",
-        "oldtatar": "طلب"
+        "oldTatar": "طلب"
       },
       {
         "tatar": "тараф",
-        "oldtatar": "طرف"
+        "oldTatar": "طرف"
       },
       {
         "tatar": "тәбрик",
-        "oldtatar": "تبريك"
+        "oldTatar": "تبريك"
       },
       {
         "tatar": "хикмәт",
-        "oldtatar": "حكمت"
+        "oldTatar": "حكمت"
       },
       {
         "tatar": "хак",
-        "oldtatar": "حق"
+        "oldTatar": "حق"
       },
       {
         "tatar": "хәл",
-        "oldtatar": "حال"
+        "oldTatar": "حال"
       },
       {
         "tatar": "хөрмәт",
-        "oldtatar": "حرمت"
+        "oldTatar": "حرمت"
       },
       {
         "tatar": "хәрәкәт",
-        "oldtatar": "حركت"
+        "oldTatar": "حركت"
       },
       {
         "tatar": "сафсата",
-        "oldtatar": "سفسطه"
+        "oldTatar": "سفسطه"
       },
       {
         "tatar": "сәбәп",
-        "oldtatar": "سبب"
+        "oldTatar": "سبب"
       },
       {
         "tatar": "хәрам",
-        "oldtatar": "حرام"
+        "oldTatar": "حرام"
       },
       {
         "tatar": "хәбәр",
-        "oldtatar": "خبر"
+        "oldTatar": "خبر"
       },
       {
         "tatar": "хәләл",
-        "oldtatar": "حلال"
+        "oldTatar": "حلال"
       },
       {
         "tatar": "шөгыль",
-        "oldtatar": "شغل"
+        "oldTatar": "شغل"
       },
       {
         "tatar": "шөһрәт",
-        "oldtatar": "شهرت"
+        "oldTatar": "شهرت"
       },
       {
         "tatar": "шарт",
-        "oldtatar": "شرط"
+        "oldTatar": "شرط"
       },
       {
         "tatar": "сыйфат",
-        "oldtatar": "صفات"
+        "oldTatar": "صفات"
       },
       {
         "tatar": "сәлам",
-        "oldtatar": "سلام"
+        "oldTatar": "سلام"
       },
       {
         "tatar": "җенес",
-        "oldtatar": "جنس"
+        "oldTatar": "جنس"
       },
       {
         "tatar": "җәнҗал",
-        "oldtatar": "جنجال"
+        "oldTatar": "جنجال"
       },
       {
         "tatar": "җавап",
-        "oldtatar": "جواب"
+        "oldTatar": "جواب"
       },
       {
         "tatar": "рәвеш",
-        "oldtatar": "روش"
+        "oldTatar": "روش"
       },
       {
         "tatar": "рөхсәт",
-        "oldtatar": "رخصت"
+        "oldTatar": "رخصت"
       },
       {
         "tatar": "афәрин",
-        "oldtatar": "آفرين"
+        "oldTatar": "آفرين"
       },
       {
         "tatar": "афәт",
-        "oldtatar": "آفات"
+        "oldTatar": "آفات"
       },
       {
         "tatar": "игълан",
-        "oldtatar": "اِعلان"
+        "oldTatar": "اِعلان"
       },
       {
         "tatar": "ишарә",
-        "oldtatar": "اِشاره"
+        "oldTatar": "اِشاره"
       },
       {
         "tatar": "риза",
-        "oldtatar": "رضا"
+        "oldTatar": "رضا"
       },
       {
         "tatar": "бәрәкәт",
-        "oldtatar": "بركت"
+        "oldTatar": "بركت"
       },
       {
         "tatar": "ахыр",
-        "oldtatar": "آخر"
+        "oldTatar": "آخر"
       },
       {
         "tatar": "дәлил",
-        "oldtatar": "دليل"
+        "oldTatar": "دليل"
       },
       {
         "tatar": "дәрәҗә",
-        "oldtatar": "درجه"
+        "oldTatar": "درجه"
       },
       {
         "tatar": "дәхел",
-        "oldtatar": "دخل"
+        "oldTatar": "دخل"
       },
       {
         "tatar": "әмер",
-        "oldtatar": "امر"
+        "oldTatar": "امر"
       },
       {
         "tatar": "гафләт",
-        "oldtatar": "غفلت"
+        "oldTatar": "غفلت"
       },
       {
         "tatar": "гакыл",
-        "oldtatar": "عاقل"
+        "oldTatar": "عاقل"
       },
       {
         "tatar": "тараф",
-        "oldtatar": "طرف"
+        "oldTatar": "طرف"
       },
       {
         "tatar": "зарур",
-        "oldtatar": "ضرور"
+        "oldTatar": "ضرور"
       },
       {
         "tatar": "зарар",
-        "oldtatar": "ضرر"
+        "oldTatar": "ضرر"
       },
       {
         "tatar": "зиннәт",
-        "oldtatar": "زينت"
+        "oldTatar": "زينت"
       },
       {
         "tatar": "лазем",
-        "oldtatar": "لازم"
+        "oldTatar": "لازم"
       },
       {
         "tatar": "фида",
-        "oldtatar": "فدا"
+        "oldTatar": "فدا"
       },
       {
         "tatar": "файда",
-        "oldtatar": "فائده"
+        "oldTatar": "فائده"
       },
       {
         "tatar": "фаҗига",
-        "oldtatar": "فاجعه"
+        "oldTatar": "فاجعه"
       },
       {
         "tatar": "каһәр",
-        "oldtatar": "قهر"
+        "oldTatar": "قهر"
       },
       {
         "tatar": "карар",
-        "oldtatar": "قرار"
+        "oldTatar": "قرار"
       },
       {
         "tatar": "матәм",
-        "oldtatar": "ماتم"
+        "oldTatar": "ماتم"
       },
       {
         "tatar": "мәрхүм",
-        "oldtatar": "مرحوم"
+        "oldTatar": "مرحوم"
       },
       {
         "tatar": "мәсхәрә",
-        "oldtatar": "مسخره"
+        "oldTatar": "مسخره"
       },
       {
         "tatar": "мәхрүм",
-        "oldtatar": "محروم"
+        "oldTatar": "محروم"
       },
       {
         "tatar": "мәҗбүр",
-        "oldtatar": "مجبور"
+        "oldTatar": "مجبور"
       },
       {
         "tatar": "мөнәсәбәт",
-        "oldtatar": "مناسبت"
+        "oldTatar": "مناسبت"
       },
       {
         "tatar": "микъдар",
-        "oldtatar": "مقدار"
+        "oldTatar": "مقدار"
       },
       {
         "tatar": "мөшкел",
-        "oldtatar": "مشكل"
+        "oldTatar": "مشكل"
       },
       {
         "tatar": "мәшәкать",
-        "oldtatar": "مشقت"
+        "oldTatar": "مشقت"
       },
       {
         "tatar": "нәтиҗә",
-        "oldtatar": "نتيجه"
+        "oldTatar": "نتيجه"
       },
       {
         "tatar": "нахак",
-        "oldtatar": "ناحق"
+        "oldTatar": "ناحق"
       },
       {
         "tatar": "мәгънә",
-        "oldtatar": "معنا،"
+        "oldTatar": "معنا،"
       },
       {
         "tatar": "мөһим",
-        "oldtatar": "مهم"
+        "oldTatar": "مهم"
       },
       {
         "tatar": "вәхшәт",
-        "oldtatar": "وحشت"
+        "oldTatar": "وحشت"
       },
       {
         "tatar": "насыйп",
-        "oldtatar": "نصيب"
+        "oldTatar": "نصيب"
       },
       {
         "tatar": "нисбәт",
-        "oldtatar": "نسبت"
+        "oldTatar": "نسبت"
       },
       {
         "tatar": "сыйныф",
-        "oldtatar": "صنف"
+        "oldTatar": "صنف"
       },
       {
         "tatar": "гаҗәп",
-        "oldtatar": "عَجَب"
+        "oldTatar": "عَجَب"
       },
       {
         "tatar": "һәлак",
-        "oldtatar": "هلاک"
+        "oldTatar": "هلاک"
       },
       {
         "tatar": "гаҗәиб",
-        "oldtatar": "عجائب"
+        "oldTatar": "عجائب"
       },
       {
         "tatar": "шаять",
-        "oldtatar": "شاید"
+        "oldTatar": "شاید"
       },
       {
         "tatar": "мөһим",
-        "oldtatar": "مُهِم"
+        "oldTatar": "مُهِم"
       },
       {
         "tatar": "әһәмиять",
-        "oldtatar": "اَهَمیَّت"
+        "oldTatar": "اَهَمیَّت"
       },
       {
         "tatar": "мәсәлән",
-        "oldtatar": "مَثلاً"
+        "oldTatar": "مَثلاً"
       },
       {
         "tatar": "әлбәттә",
-        "oldtatar": "البته"
+        "oldTatar": "البته"
       },
       {
         "tatar": "ниһаять",
-        "oldtatar": "نهایت"
+        "oldTatar": "نهایت"
       },
       {
         "tatar": "мал",
-        "oldtatar": "مال"
+        "oldTatar": "مال"
       },
       {
         "tatar": "сәүдә",
-        "oldtatar": "سودا"
+        "oldTatar": "سودا"
       },
       {
         "tatar": "хуҗа",
-        "oldtatar": "خواجه"
+        "oldTatar": "خواجه"
       },
       {
         "tatar": "вакыт, заман / бик кыска вакыт",
-        "oldtatar": "آن"
+        "oldTatar": "آن"
       },
       {
         "tatar": "шул вакыт",
-        "oldtatar": "آنداق"
+        "oldTatar": "آنداق"
       },
       {
         "tatar": "теләк",
-        "oldtatar": "آزرو"
+        "oldTatar": "آزرو"
       },
       {
         "tatar": "ачык, ачыктан ачык, яшермәстән күз алдында / кычкырып",
-        "oldtatar": "اَشكارا"
+        "oldTatar": "اَشكارا"
       },
       {
         "tatar": "бүләкләргә (нагрождать)",
-        "oldtatar": "اَنْعَمَ"
+        "oldTatar": "اَنْعَمَ"
       },
       {
         "tatar": "хайваннар (күплек санында)",
-        "oldtatar": "اَنْعَامٌ"
+        "oldTatar": "اَنْعَامٌ"
       },
       {
         "tatar": "мәңгелек үткән заман",
-        "oldtatar": "اَذل"
+        "oldTatar": "اَذل"
       },
       {
         "tatar": "билгелерәк",
-        "oldtatar": "اَعْرَف"
+        "oldTatar": "اَعْرَف"
       },
       {
         "tatar": "кыямәт көнендә, сынау мәйданы / җәннәт белән җәһәннәм арасындагы урын",
-        "oldtatar": "اَعْراف"
+        "oldTatar": "اَعْراف"
       },
       {
         "tatar": "дару, медикаментлар",
-        "oldtatar": "اَجزاء"
+        "oldTatar": "اَجزاء"
       },
       {
         "tatar": "аптека",
-        "oldtatar": "اَجزاءِ خانه"
+        "oldTatar": "اَجزاءِ خانه"
       },
       {
         "tatar": "яхшырак",
-        "oldtatar": "اَصلاح"
+        "oldTatar": "اَصلاح"
       },
       {
         "tatar": "мәсьәләләр / легендалар",
-        "oldtatar": "اَساطیر"
+        "oldTatar": "اَساطیر"
       },
       {
         "tatar": "бәхәстә җиңеп өстен чыгу",
-        "oldtatar": "اِلزام"
+        "oldTatar": "اِلزام"
       },
       {
         "tatar": "чыгару, карар чыгару",
-        "oldtatar": "اِستخراج"
+        "oldTatar": "اِستخراج"
       },
       {
         "tatar": "искәртү",
-        "oldtatar": " اِخطار"
+        "oldTatar": " اِخطار"
       },
       {
         "tatar": "яхшылыкка рәхмәт әйтү",
-        "oldtatar": "اِمتنان"
+        "oldTatar": "اِمتنان"
       },
       {
         "tatar": "фикерне икенче якка бору өчен сөйләү / ташлау",
-        "oldtatar": "اِلقا"
+        "oldTatar": "اِلقا"
       },
       {
         "tatar": "гөзерне кабул итүен үтенү",
-        "oldtatar": "اِعتذار"
+        "oldTatar": "اِعتذار"
       },
       {
         "tatar": "сыйлау",
-        "oldtatar": "اِنعام"
+        "oldTatar": "اِنعام"
       },
       {
         "tatar": "каршы алу, кабул итү / эшнең алга баруы",
-        "oldtatar": "اِقبال"
+        "oldTatar": "اِقبال"
       },
       {
         "tatar": "читтән тыш",
-        "oldtatar": "اِفراط"
+        "oldTatar": "اِفراط"
       },
       {
         "tatar": "көлү, хурлау",
-        "oldtatar": "اِستهزاء"
+        "oldTatar": "اِستهزاء"
       },
       {
         "tatar": "буйсыну",
-        "oldtatar": " اِنقياد"
+        "oldTatar": " اِنقياد"
       },
       {
         "tatar": "ышану",
-        "oldtatar": "اِعتقاد"
+        "oldTatar": "اِعتقاد"
       },
       {
         "tatar": "бер урында ябылып яки тукталып тору",
-        "oldtatar": " اِعتكاف"
+        "oldTatar": " اِعتكاف"
       },
       {
         "tatar": "койма, киртә",
-        "oldtatar": "اِحاطه"
+        "oldTatar": "اِحاطه"
       },
       {
         "tatar": "рөхсәт",
-        "oldtatar": "اِذن"
+        "oldTatar": "اِذن"
       },
       {
         "tatar": "үз эшен башка кешегә аудару",
-        "oldtatar": "اِسناد"
+        "oldTatar": "اِسناد"
       },
       {
         "tatar": "исем, ат (имя, название)",
-        "oldtatar": "اِسم"
+        "oldTatar": "اِسم"
       },
       {
         "tatar": "гөнаһ, язык (начар)",
-        "oldtatar": "اِثم"
+        "oldTatar": "اِثم"
       },
       {
         "tatar": "ышаныч, таяныч",
-        "oldtatar": "اِنابت"
+        "oldTatar": "اِنابت"
       },
       {
         "tatar": "мөмкинлек",
-        "oldtatar": "اِمكان"
+        "oldTatar": "اِمكان"
       },
       {
         "tatar": "турылык, намуслык",
-        "oldtatar": "اِستقامت"
+        "oldTatar": "اِستقامت"
       },
       {
         "tatar": "әһәмият бирү",
-        "oldtatar": "اِعتناء"
+        "oldTatar": "اِعتناء"
       },
       {
         "tatar": "үзенең гаебен тану, әйтү; кимчелекләрен тану, үз өстенә алу",
-        "oldtatar": "اِعتراف"
+        "oldTatar": "اِعتراف"
       },
       {
         "tatar": "бик тугрылыклы",
-        "oldtatar": "اِرشاد"
+        "oldTatar": "اِرشاد"
       },
       {
         "tatar": "тәртиплек",
-        "oldtatar": "اِنتطام"
+        "oldTatar": "اِنتطام"
       },
       {
         "tatar": "кирәклек",
-        "oldtatar": "اِقتضام"
+        "oldTatar": "اِقتضام"
       },
       {
         "tatar": "климат",
-        "oldtatar": "اِقالیم"
+        "oldTatar": "اِقالیم"
       },
       {
         "tatar": "ял итү",
-        "oldtatar": "اِستراحته"
+        "oldTatar": "اِستراحته"
       },
       {
         "tatar": "аңлату",
-        "oldtatar": "اِفاده"
+        "oldTatar": "اِفاده"
       },
       {
         "tatar": "бердәмлек",
-        "oldtatar": "اُلفت"
+        "oldTatar": "اُلفت"
       },
       {
         "tatar": "мәңгелек",
-        "oldtatar": "باقي"
+        "oldTatar": "باقي"
       },
       {
         "tatar": "гыйфәтле кыз",
-        "oldtatar": "باكره"
+        "oldTatar": "باكره"
       },
       {
         "tatar": "шулай булгач, димәк / җитте",
-        "oldtatar": "بَس"
+        "oldTatar": "بَس"
       },
       {
         "tatar": "аңлатма",
-        "oldtatar": "بَيِّنَات"
+        "oldTatar": "بَيِّنَات"
       },
       {
         "tatar": "шатлыклы хәбәр",
-        "oldtatar": "بشارت"
+        "oldTatar": "بشارت"
       },
       {
         "tatar": "бәясенә алмаштырырга яраклы әйбер / хак",
-        "oldtatar": "بَدَل"
+        "oldTatar": "بَدَل"
       },
       {
         "tatar": "аңлату",
-        "oldtatar": "بَيَان"
+        "oldTatar": "بَيَان"
       },
       {
         "tatar": "корсак, эче / нәсел, буын",
-        "oldtatar": "بَطْن"
+        "oldTatar": "بَطْن"
       },
       {
         "tatar": "әйе, шулай дөрес",
-        "oldtatar": "بلى"
+        "oldTatar": "بلى"
       },
       {
         "tatar": "дүрт аяклы мал, терлек",
-        "oldtatar": "بهیمه"
+        "oldTatar": "بهیمه"
       },
       {
         "tatar": "тудыручы, яратучы; аллаһ",
-        "oldtatar": "پرواردِكار"
+        "oldTatar": "پرواردِكار"
       },
       {
         "tatar": "җен төркеменнән иң матуры",
-        "oldtatar": "پری"
+        "oldTatar": "پری"
       },
       {
         "tatar": "түбәнчелек",
-        "oldtatar": "تَضَرُّع"
+        "oldTatar": "تَضَرُّع"
       },
       {
         "tatar": "гыйлем алу, казану",
-        "oldtatar": "تَحْصِيل"
+        "oldTatar": "تَحْصِيل"
       },
       {
         "tatar": "җиңеләйтү",
-        "oldtatar": "تَسْهِيل"
+        "oldTatar": "تَسْهِيل"
       },
       {
         "tatar": "бер аллаһыга ышану / берләштерү",
-        "oldtatar": "تَوْحِيد"
+        "oldTatar": "تَوْحِيد"
       },
       {
         "tatar": "топор, балта",
-        "oldtatar": "تبر"
+        "oldTatar": "تبر"
       },
       {
         "tatar": "төш юрау / әйтелгән сүз эчтәлеген ялгыш аңлату",
-        "oldtatar": "تأويل"
+        "oldTatar": "تأويل"
       },
       {
         "tatar": "эшне алдан күреп эшләү",
-        "oldtatar": "تدبير"
+        "oldTatar": "تدبير"
       },
       {
         "tatar": "каршылыклы буталу, тәртип бозу / котырту / кешеләрнең куркуга төшүе",
-        "oldtatar": "تشويش"
+        "oldTatar": "تشويش"
       },
       {
         "tatar": "кисәтү",
-        "oldtatar": "تنبيه"
+        "oldTatar": "تنبيه"
       },
       {
         "tatar": "өчен, дип, теләсә, белән, ...га, таба",
-        "oldtatar": "تاكه"
+        "oldTatar": "تاكه"
       },
       {
         "tatar": "шулай ук, дәхи",
-        "oldtatar": "تاكم"
+        "oldTatar": "تاكم"
       },
       {
         "tatar": "яла ягу",
-        "oldtatar": "تُهمت"
+        "oldTatar": "تُهمت"
       },
       {
         "tatar": "авыз итү, татып карау",
-        "oldtatar": "تناویل"
+        "oldTatar": "تناویل"
       },
       {
         "tatar": "аклау, гаепсез дип тану, начарлыктан ерак тоту",
-        "oldtatar": "تنزیه"
+        "oldTatar": "تنزیه"
       },
       {
         "tatar": "хурлау",
-        "oldtatar": "تحقیر"
+        "oldTatar": "تحقیر"
       },
       {
         "tatar": "иярү",
-        "oldtatar": "تقلید"
+        "oldTatar": "تقلید"
       },
       {
         "tatar": "кабатлау",
-        "oldtatar": "تکرار"
+        "oldTatar": "تکرار"
       },
       {
         "tatar": "җинау",
-        "oldtatar": "تألیف"
+        "oldTatar": "تألیف"
       },
       {
         "tatar": "телдән әйтү",
-        "oldtatar": "تصبیر"
+        "oldTatar": "تصبیر"
       },
       {
         "tatar": "иранлылар тарафыннан төрки халыклар яшәгән урыннарга бирелгән исем",
-        "oldtatar": "توران"
+        "oldTatar": "توران"
       },
       {
         "tatar": "ант иттерү",
-        "oldtatar": "تحلیف"
+        "oldTatar": "تحلیف"
       },
       {
         "tatar": "берсе артыннан икенчене булдыру",
-        "oldtatar": "تخلیف"
+        "oldTatar": "تخلیف"
       },
       {
         "tatar": "телдән әйтү",
-        "oldtatar": "تعبیر"
+        "oldTatar": "تعبیر"
       },
       {
         "tatar": "туфрак",
-        "oldtatar": "تراب"
+        "oldTatar": "تراب"
       },
       {
         "tatar": "мактау",
-        "oldtatar": "ثنا"
+        "oldTatar": "ثنا"
       },
       {
         "tatar": "сүздә, вәгъдәдә нык тыручы",
-        "oldtatar": "ثابت"
+        "oldTatar": "ثابت"
       },
       {
         "tatar": "әҗер, яхшы эш өчен бүләк / яхшы (изге) эш",
-        "oldtatar": "ثواب"
+        "oldTatar": "ثواب"
       },
       {
         "tatar": "тырышу",
-        "oldtatar": "جَهد"
+        "oldTatar": "جَهد"
       },
       {
         "tatar": "инкарь итү / ышанмау",
-        "oldtatar": "جَحد"
+        "oldTatar": "جَحد"
       },
       {
         "tatar": "изге сугыш",
-        "oldtatar": " جِهاد"
+        "oldTatar": " جِهاد"
       },
       {
         "tatar": "як, тараф; җәһәт",
-        "oldtatar": "جِهت"
+        "oldTatar": "جِهت"
       },
       {
         "tatar": "дөнья, галәм",
-        "oldtatar": "جِهان"
+        "oldTatar": "جِهان"
       },
       {
         "tatar": "шалтрау, кыңграу, тавыш",
-        "oldtatar": "جَرْس"
+        "oldTatar": "جَرْس"
       },
       {
         "tatar": "күп, мул",
-        "oldtatar": "جزيل"
+        "oldTatar": "جزيل"
       },
       {
         "tatar": "көньяк",
-        "oldtatar": "جَنُوب"
+        "oldTatar": "جَنُوب"
       },
       {
         "tatar": "хәлбуки, чынлыкта, шуңа күрә",
-        "oldtatar": "حالاًنكه"
+        "oldTatar": "حالاًنكه"
       },
       {
         "tatar": "сакчы, яклаучы",
-        "oldtatar": "حارس"
+        "oldTatar": "حارس"
       },
       {
         "tatar": "игенче",
-        "oldtatar": "حارث"
+        "oldTatar": "حارث"
       },
       {
         "tatar": "бик артык кызыгу, теләк / саклык / комсызлык",
-        "oldtatar": "حِرص"
+        "oldTatar": "حِرص"
       },
       {
         "tatar": "комсыз (алчный, жадный)",
-        "oldtatar": "حَریص"
+        "oldTatar": "حَریص"
       },
       {
         "tatar": "саклаучы",
-        "oldtatar": "حرَّاس"
+        "oldTatar": "حرَّاس"
       },
       {
         "tatar": "саклаучы, яклаучы, сакчы",
-        "oldtatar": "حارس"
+        "oldTatar": "حارس"
       },
       {
         "tatar": "игенче",
-        "oldtatar": "حرَّاث"
+        "oldTatar": "حرَّاث"
       },
       {
         "tatar": "ялганчы",
-        "oldtatar": "حرَّاص"
+        "oldTatar": "حرَّاص"
       },
       {
         "tatar": "яклау, берәүнең кул астында булып саклау, саклану",
-        "oldtatar": "حِمايه"
+        "oldTatar": "حِمايه"
       },
       {
         "tatar": "күз алды, каршысында / килү / күңел ачу",
-        "oldtatar": "حضورنده"
+        "oldTatar": "حضورنده"
       },
       {
         "tatar": "кулга алу, бикләп тоту / төрмә",
-        "oldtatar": "حبس"
+        "oldTatar": "حبس"
       },
       {
         "tatar": "чик, кырый / чыбык белән сугу җәзасы",
-        "oldtatar": "حد"
+        "oldTatar": "حد"
       },
       {
         "tatar": "өстендә йөкләүче",
-        "oldtatar": "حِمالچیلق"
+        "oldTatar": "حِمالچیلق"
       },
       {
         "tatar": "торыш, хәл / көч, кувәт / хәзерге заман",
-        "oldtatar": "حال، حالات"
+        "oldTatar": "حال، حالات"
       },
       {
         "tatar": "саф / чын",
-        "oldtatar": "خالص"
+        "oldTatar": "خالص"
       },
       {
         "tatar": "өндәшү, сүз сөйләү, мәрәҗәгать",
-        "oldtatar": " خِطاب"
+        "oldTatar": " خِطاب"
       },
       {
         "tatar": "зарар кимчелек",
-        "oldtatar": "خَلَل"
+        "oldTatar": "خَلَل"
       },
       {
         "tatar": "юк-барга ышану",
-        "oldtatar": "خُرافت"
+        "oldTatar": "خُرافت"
       },
       {
         "tatar": "дошманлык, талашу",
-        "oldtatar": "خصومت"
+        "oldTatar": "خصومت"
       },
       {
         "tatar": "түбәнчелек",
-        "oldtatar": "خسوع"
+        "oldTatar": "خسوع"
       },
       {
         "tatar": "искә төшү",
-        "oldtatar": "خطور"
+        "oldTatar": "خطور"
       },
       {
         "tatar": "әшәке, түбән, саран кеше",
-        "oldtatar": "خسیس"
+        "oldTatar": "خسیس"
       },
       {
         "tatar": "тәмам кылу",
-        "oldtatar": "خَتم"
+        "oldTatar": "خَتم"
       },
       {
         "tatar": "үзенчәлек, очрак, мөнәсәбәт",
-        "oldtatar": "خصوص"
+        "oldTatar": "خصوص"
       },
       {
         "tatar": "ачулану",
-        "oldtatar": "دَشنام"
+        "oldTatar": "دَشنام"
       },
       {
         "tatar": "кире кайтару",
-        "oldtatar": "دَفع"
+        "oldTatar": "دَفع"
       },
       {
         "tatar": "шулай ук, яисә",
-        "oldtatar": "دَحى"
+        "oldTatar": "دَحى"
       },
       {
         "tatar": "динсез / дөньяга бәйләнешле",
-        "oldtatar": "دَهري"
+        "oldTatar": "دَهري"
       },
       {
         "tatar": "дәлиллек",
-        "oldtatar": "دَلالت"
+        "oldTatar": "دَلالت"
       },
       {
         "tatar": "татып карау(чы)",
-        "oldtatar": "ذَائقه"
+        "oldTatar": "ذَائقه"
       },
       {
         "tatar": "ия, хуҗа (берәр сүзгә бәйләнеп килсә)",
-        "oldtatar": "ذَا، ذِى"
+        "oldTatar": "ذَا، ذِى"
       },
       {
         "tatar": "ذا нең күплек саны / әйбер / аерым кеше / нигез",
-        "oldtatar": " ذَات"
+        "oldTatar": " ذَات"
       },
       {
         "tatar": "йөрүче, баручы",
-        "oldtatar": "ذَاهب"
+        "oldTatar": "ذَاهب"
       },
       {
         "tatar": "тышкы кыяфәт (форма)",
-        "oldtatar": " ذي"
+        "oldTatar": " ذي"
       },
       {
         "tatar": "ислам дәүләте кул астындагы мөселман булмаган кеше, халык",
-        "oldtatar": "ذِمِّي"
+        "oldTatar": "ذِمِّي"
       },
       {
         "tatar": "хайван бугазлау, чалу",
-        "oldtatar": "ذَبح"
+        "oldTatar": "ذَبح"
       },
       {
         "tatar": "суелган корбан(лык) хайван",
-        "oldtatar": "ذَبيحه"
+        "oldTatar": "ذَبيحه"
       },
       {
         "tatar": "түбәнчелек, хурлык",
-        "oldtatar": "ذَلالت"
+        "oldTatar": "ذَلالت"
       },
       {
         "tatar": "зәвык, ләззәтләнү, тәм тоту төйкысы",
-        "oldtatar": " ذَوق"
+        "oldTatar": " ذَوق"
       },
       {
         "tatar": "ирләр",
-        "oldtatar": "ذُكُور"
+        "oldTatar": "ذُكُور"
       },
       {
         "tatar": "рас, дөрес",
-        "oldtatar": "راست"
+        "oldTatar": "راست"
       },
       {
         "tatar": "төш (йокыда)",
-        "oldtatar": "رؤْيا"
+        "oldTatar": "رؤْيا"
       },
       {
         "tatar": "монах",
-        "oldtatar": "راهِب"
+        "oldTatar": "راهِب"
       },
       {
         "tatar": "кайгырту, олылау, хөрмәтләү",
-        "oldtatar": "رِعايه،رِعايت"
+        "oldTatar": "رِعايه،رِعايت"
       },
       {
         "tatar": "кире кагу",
-        "oldtatar": "رَد"
+        "oldTatar": "رَد"
       },
       {
         "tatar": "кимчелек, зарар",
-        "oldtatar": "زيان"
+        "oldTatar": "زيان"
       },
       {
         "tatar": "ир бала; патша улы",
-        "oldtatar": "زاده"
+        "oldTatar": "زاده"
       },
       {
         "tatar": "артыграк",
-        "oldtatar": "زياده"
+        "oldTatar": "زياده"
       },
       {
         "tatar": "чөнки, аның өчен, нигә дисәк",
-        "oldtatar": "زيراكه"
+        "oldTatar": "زيراكه"
       },
       {
         "tatar": "юкка чыга торган",
-        "oldtatar": "زائل"
+        "oldTatar": "زائل"
       },
       {
         "tatar": "тавыш белән елау",
-        "oldtatar": "زار"
+        "oldTatar": "زار"
       },
       {
         "tatar": "артып калган / өстәлгән",
-        "oldtatar": "زائد"
+        "oldTatar": "زائد"
       },
       {
         "tatar": "кылыч",
-        "oldtatar": "سيف"
+        "oldTatar": "سيف"
       },
       {
         "tatar": "түбә, күк",
-        "oldtatar": "سَقْف"
+        "oldTatar": "سَقْف"
       },
       {
         "tatar": "тырышу / бирелеп эш артыннан йөрү",
-        "oldtatar": "سَعِي"
+        "oldTatar": "سَعِي"
       },
       {
         "tatar": "тәмугның исеме",
-        "oldtatar": "سَقَر"
+        "oldTatar": "سَقَر"
       },
       {
         "tatar": "секретарь",
-        "oldtatar": "سرکاتب"
+        "oldTatar": "سرکاتب"
       },
       {
         "tatar": "сату итүче",
-        "oldtatar": "سوداگر"
+        "oldTatar": "سوداگر"
       },
       {
         "tatar": "юл / язу юлы",
-        "oldtatar": "سَطر"
+        "oldTatar": "سَطر"
       },
       {
         "tatar": "патша / иң беренче иң зур (сүзгә кушыла)",
-        "oldtatar": "شاه"
+        "oldTatar": "شاه"
       },
       {
         "tatar": "бәхетсезлек",
-        "oldtatar": "شقاوت"
+        "oldTatar": "شقاوت"
       },
       {
         "tatar": "берәү белән сөйләшеп утыру / иптәш",
-        "oldtatar": " صُحْبَت"
+        "oldTatar": " صُحْبَت"
       },
       {
         "tatar": "юнәлеш «га» таба",
-        "oldtatar": "صارى"
+        "oldTatar": "صارى"
       },
       {
         "tatar": "җәй",
-        "oldtatar": "صيف"
+        "oldTatar": "صيف"
       },
       {
         "tatar": "килешү",
-        "oldtatar": "صُلْح"
+        "oldTatar": "صُلْح"
       },
       {
         "tatar": "гыбәдәт бүлмәсе, хөҗрә / монастырь",
-        "oldtatar": "صَومعه"
+        "oldTatar": "صَومعه"
       },
       {
         "tatar": "җаваплылык (попечительство)",
-        "oldtatar": "ضمان"
+        "oldTatar": "ضمان"
       },
       {
         "tatar": "азгын, бозык",
-        "oldtatar": "ضال"
+        "oldTatar": "ضال"
       },
       {
         "tatar": "азгынлык, туры юлдан чыгу, начар юлга керү",
-        "oldtatar": "ضلالت، ضلال"
+        "oldTatar": "ضلالت، ضلال"
       },
       {
         "tatar": "бик кирәкле",
-        "oldtatar": "ضروري"
+        "oldTatar": "ضروري"
       },
       {
         "tatar": "чарасызлык, ирексезлек",
-        "oldtatar": "ضرورت"
+        "oldTatar": "ضرورت"
       },
       {
         "tatar": "мохтаҗлык",
-        "oldtatar": "ضروريت"
+        "oldTatar": "ضروريت"
       },
       {
         "tatar": "хурлау",
-        "oldtatar": "طَعْنَه، طَعِن"
+        "oldTatar": "طَعْنَه، طَعِن"
       },
       {
         "tatar": "җәннәт агачы исеме",
-        "oldtatar": "طوبى"
+        "oldTatar": "طوبى"
       },
       {
         "tatar": "ачык, билгеле",
-        "oldtatar": "ظاهر"
+        "oldTatar": "ظاهر"
       },
       {
         "tatar": "өстен булу, җиңел чыгу",
-        "oldtatar": "ظفر"
+        "oldTatar": "ظفر"
       },
       {
         "tatar": "шикләнеп карау",
-        "oldtatar": "ظن"
+        "oldTatar": "ظن"
       },
       {
         "tatar": "бурыч, алып тору (долг)",
-        "oldtatar": "عاريت"
+        "oldTatar": "عاريت"
       },
       {
         "tatar": "өй җәмәгате",
-        "oldtatar": "عيال"
+        "oldTatar": "عيال"
       },
       {
         "tatar": "бүләк итеп бирү",
-        "oldtatar": "عطا"
+        "oldTatar": "عطا"
       },
       {
         "tatar": "ант",
-        "oldtatar": "عهد"
+        "oldTatar": "عهد"
       },
       {
         "tatar": "диннән язган / гөнаһлы",
-        "oldtatar": "عاصي"
+        "oldTatar": "عاصي"
       },
       {
         "tatar": "кадер, хөрмәт",
-        "oldtatar": "عِزَّت"
+        "oldTatar": "عِزَّت"
       },
       {
         "tatar": "авырлык, кыенлык / җәза",
-        "oldtatar": "عقوبت"
+        "oldTatar": "عقوبت"
       },
       {
         "tatar": "җиңүче",
-        "oldtatar": "غالب"
+        "oldTatar": "غالب"
       },
       {
         "tatar": "ыңгырашу, елау",
-        "oldtatar": "غاله"
+        "oldTatar": "غاله"
       },
       {
         "tatar": "трофей / уңыш, бәхет",
-        "oldtatar": "غنيمت"
+        "oldTatar": "غنيمت"
       },
       {
         "tatar": "күзгә күренмәгән әйберләр",
-        "oldtatar": "غَیب"
+        "oldTatar": "غَیب"
       },
       {
         "tatar": "фетнә / бозык",
-        "oldtatar": "فساد"
+        "oldTatar": "فساد"
       },
       {
         "tatar": "бушаган / файдасыз",
-        "oldtatar": "فارع"
+        "oldTatar": "فارع"
       },
       {
         "tatar": "котылу",
-        "oldtatar": "فلاح"
+        "oldTatar": "فلاح"
       },
       {
         "tatar": "тишек, ярык",
-        "oldtatar": "فَرْج"
+        "oldTatar": "فَرْج"
       },
       {
         "tatar": "белемле, укымышлы, акыллы",
-        "oldtatar": "فرزانه"
+        "oldTatar": "فرزانه"
       },
       {
         "tatar": "ният",
-        "oldtatar": "قصد"
+        "oldTatar": "قصد"
       },
       {
         "tatar": "бурычка алу (ссуда)",
-        "oldtatar": "قرض"
+        "oldTatar": "قرض"
       },
       {
         "tatar": "кабилә исеме",
-        "oldtatar": "قُرَيْش"
+        "oldTatar": "قُرَيْش"
       },
       {
         "tatar": "корайш кабиләсеннән карышучылары",
-        "oldtatar": "قُرَيْش معاندلرى"
+        "oldTatar": "قُرَيْش معاندلرى"
       },
       {
         "tatar": "кисәк, өлеш, бүлек, парга / кыска, ләкин тулы бер фикер / әйтелгән шигырь",
-        "oldtatar": "قِطْعه"
+        "oldTatar": "قِطْعه"
       },
       {
         "tatar": "төркем",
-        "oldtatar": "قِسْم"
+        "oldTatar": "قِسْم"
       },
       {
         "tatar": "кисү",
-        "oldtatar": "قَطْع"
+        "oldTatar": "قَطْع"
       },
       {
         "tatar": "аяк өстендә басып туручы",
-        "oldtatar": "قائِم"
+        "oldTatar": "قائِم"
       },
       {
         "tatar": "сөйләүче",
-        "oldtatar": "قصص"
+        "oldTatar": "قصص"
       },
       {
         "tatar": "үтерүчене үтерү / яралаучыга яралау белән җәза бирү",
-        "oldtatar": "قصاص"
+        "oldTatar": "قصاص"
       },
       {
         "tatar": "катылык, тупаслык",
-        "oldtatar": "قَسوَت"
+        "oldTatar": "قَسوَت"
       },
       {
         "tatar": "хөрмәтле (ләр) затлы (лар) / данлыклы, кадерле",
-        "oldtatar": "كرام"
+        "oldTatar": "كرام"
       },
       {
         "tatar": "янчык",
-        "oldtatar": "كيس"
+        "oldTatar": "كيس"
       },
       {
         "tatar": "кечкенә, янчык, кесә",
-        "oldtatar": "كيسه"
+        "oldTatar": "كيسه"
       },
       {
         "tatar": "химик",
-        "oldtatar": "كيمياگير"
+        "oldTatar": "كيمياگير"
       },
       {
         "tatar": "ничек булган булса, шулай",
-        "oldtatar": "كما"
+        "oldTatar": "كما"
       },
       {
         "tatar": "баш",
-        "oldtatar": "كله"
+        "oldTatar": "كله"
       },
       {
         "tatar": "казанылган",
-        "oldtatar": "كسبي"
+        "oldTatar": "كسبي"
       },
       {
         "tatar": "зурлык",
-        "oldtatar": "كبر"
+        "oldTatar": "كبر"
       },
       {
         "tatar": "әх, әгәр дә!",
-        "oldtatar": "كاشكى"
+        "oldTatar": "كاشكى"
       },
       {
         "tatar": "берәү өчен җаваплылыкны үз өстенә алучы / тәэмин итүче",
-        "oldtatar": "كافل، كفيل"
+        "oldTatar": "كافل، كفيل"
       },
       {
         "tatar": "әйтерсең лә",
-        "oldtatar": "گويا"
+        "oldTatar": "گويا"
       },
       {
         "tatar": "уй, фикер",
-        "oldtatar": "گمان"
+        "oldTatar": "گمان"
       },
       {
         "tatar": "дучар, тоткын",
-        "oldtatar": "گرفتار"
+        "oldTatar": "گرفتار"
       },
       {
         "tatar": "язмыш тактасы",
-        "oldtatar": "لَوح المَحفوظ"
+        "oldTatar": "لَوح المَحفوظ"
       },
       {
         "tatar": "йомшак, гүзәл, мөлаем, нәфис",
-        "oldtatar": "لَطيف"
+        "oldTatar": "لَطيف"
       },
       {
         "tatar": "өметсез",
-        "oldtatar": "مأيوس"
+        "oldTatar": "مأيوس"
       },
       {
         "tatar": "төзәтүче, дөресләүче / корректор",
-        "oldtatar": "مُصَحِح"
+        "oldTatar": "مُصَحِح"
       },
       {
         "tatar": "төзәтелгән, дөресләндерелгән",
-        "oldtatar": "مُصَحَح"
+        "oldTatar": "مُصَحَح"
       },
       {
         "tatar": "буйсынучы",
-        "oldtatar": "مُطِيع"
+        "oldTatar": "مُطِيع"
       },
       {
         "tatar": "киселүче, өзелгән / тукталган, беткән",
-        "oldtatar": "منقطع"
+        "oldTatar": "منقطع"
       },
       {
         "tatar": "күңел кую, мәхәббәт / кызыксыну, теләк / тартым, авышлык",
-        "oldtatar": "مَيل"
+        "oldTatar": "مَيل"
       },
       {
         "tatar": "сыену урыны / ләззәтле нәрсәләр",
-        "oldtatar": " مَلاز"
+        "oldTatar": " مَلاز"
       },
       {
         "tatar": "ялыккан, күңел тулган",
-        "oldtatar": "مَلول"
+        "oldTatar": "مَلول"
       },
       {
         "tatar": "фикер алышу",
-        "oldtatar": "مُشَاوَره"
+        "oldTatar": "مُشَاوَره"
       },
       {
         "tatar": "тукталыш",
-        "oldtatar": " مَوْقِف"
+        "oldTatar": " مَوْقِف"
       },
       {
         "tatar": "үчекли",
-        "oldtatar": "مِنَّتِى"
+        "oldTatar": "مِنَّتِى"
       },
       {
         "tatar": "эш башлау",
-        "oldtatar": " مُبَاشَرَت"
+        "oldTatar": " مُبَاشَرَت"
       },
       {
         "tatar": "ярлыкау",
-        "oldtatar": "مَغْفِرَت"
+        "oldTatar": "مَغْفِرَت"
       },
       {
         "tatar": "үз сүзле, карышучы",
-        "oldtatar": "معاند"
+        "oldTatar": "معاند"
       },
       {
         "tatar": "хаклы, лаеклы / мохтаҗ",
-        "oldtatar": "مُسْتَحِق"
+        "oldTatar": "مُسْتَحِق"
       },
       {
         "tatar": "саклана торган, ятланган",
-        "oldtatar": "محفوظ"
+        "oldTatar": "محفوظ"
       },
       {
         "tatar": "гамәлдән чыгарылган",
-        "oldtatar": "منسوخ"
+        "oldTatar": "منسوخ"
       },
       {
         "tatar": "риваять кылына",
-        "oldtatar": "مرويدركه"
+        "oldTatar": "مرويدركه"
       },
       {
         "tatar": "милләтләр",
-        "oldtatar": "مِلَل"
+        "oldTatar": "مِلَل"
       },
       {
         "tatar": "диннән язган",
-        "oldtatar": "مُرتدّ"
+        "oldTatar": "مُرتدّ"
       },
       {
         "tatar": "кылган яхшылыкны һаман искә төшерү",
-        "oldtatar": "مِنَّت"
+        "oldTatar": "مِنَّت"
       },
       {
         "tatar": "кайгыга төшкән",
-        "oldtatar": "مُبْتَلا"
+        "oldTatar": "مُبْتَلا"
       },
       {
         "tatar": "кичектереп тору",
-        "oldtatar": "مهلت"
+        "oldTatar": "مهلت"
       },
       {
         "tatar": "нык, төгәл",
-        "oldtatar": "مَحْكَم"
+        "oldTatar": "مَحْكَم"
       },
       {
         "tatar": "яхшылыкка каршы яхшылык",
-        "oldtatar": " مكافت"
+        "oldTatar": " مكافت"
       },
       {
         "tatar": "ия, хуҗа яхшылык итүче, дус",
-        "oldtatar": "مولا،مولى"
+        "oldTatar": "مولا،مولى"
       },
       {
         "tatar": "көнкүреш, тормыш",
-        "oldtatar": "معيشت"
+        "oldTatar": "معيشت"
       },
       {
         "tatar": "торак йорт / җәннәт",
-        "oldtatar": " مَأوا"
+        "oldTatar": " مَأوا"
       },
       {
         "tatar": "үләксә / пычрак, әшәке, кабәхәт",
-        "oldtatar": " مردار"
+        "oldTatar": " مردار"
       },
       {
         "tatar": "яраклы, рөхсәт ителгән",
-        "oldtatar": " مجاز"
+        "oldTatar": " مجاز"
       },
       {
         "tatar": "туры килгән, яраклы",
-        "oldtatar": " مُوافِق"
+        "oldTatar": " مُوافِق"
       },
       {
         "tatar": "юнәлгән, теркәлгән",
-        "oldtatar": " معطوف"
+        "oldTatar": " معطوف"
       },
       {
         "tatar": "яраланган",
-        "oldtatar": " مَجرُوح"
+        "oldTatar": " مَجرُوح"
       },
       {
         "tatar": "үзгәргән, алмашынган",
-        "oldtatar": " مُنقَلِب"
+        "oldTatar": " مُنقَلِب"
       },
       {
         "tatar": "җиңелгән",
-        "oldtatar": " مغلوب"
+        "oldTatar": " مغلوب"
       },
       {
         "tatar": "абсолют, чикләнмәгән / бәйсез",
-        "oldtatar": " مُطلق"
+        "oldTatar": " مُطلق"
       },
       {
         "tatar": "белгән, аңлап җиткергән",
-        "oldtatar": " مُطَّلِع"
+        "oldTatar": " مُطَّلِع"
       },
       {
         "tatar": "омтулучы, күрергә теләүче / сагынучы, җан атып торучы",
-        "oldtatar": " مُشتاق"
+        "oldTatar": " مُشتاق"
       },
       {
         "tatar": "эчтэлек",
-        "oldtatar": " مُندَرِجه"
+        "oldTatar": " مُندَرِجه"
       },
       {
         "tatar": "өндәү, чакыру",
-        "oldtatar": "نِدا"
+        "oldTatar": "نِدا"
       },
       {
         "tatar": "икейөзлелек",
-        "oldtatar": "نِفَاق"
+        "oldTatar": "نِفَاق"
       },
       {
         "tatar": "тыю",
-        "oldtatar": " نَهْي"
+        "oldTatar": " نَهْي"
       },
       {
         "tatar": "чырай",
-        "oldtatar": "نَوبت"
+        "oldTatar": "نَوبت"
       },
       {
         "tatar": "ничек, ни рәвешле, кебек",
-        "oldtatar": "نيته ك"
+        "oldTatar": "نيته ك"
       },
       {
         "tatar": "өрү, сулыш чыгару",
-        "oldtatar": " نفخ"
+        "oldTatar": " نفخ"
       },
       {
         "tatar": "яшәү өчен кирәкле мал",
-        "oldtatar": "نَفَقَه"
+        "oldTatar": "نَفَقَه"
       },
       {
         "tatar": "кире кагылган, сөрелгән",
-        "oldtatar": "نَفی"
+        "oldTatar": "نَفی"
       },
       {
         "tatar": "ким, кыска / минус",
-        "oldtatar": "ناقِص"
+        "oldTatar": "ناقِص"
       },
       {
         "tatar": "кимчелек",
-        "oldtatar": "نَقْص"
+        "oldTatar": "نَقْص"
       },
       {
         "tatar": "чакыручы / мөәзин",
-        "oldtatar": "نادى"
+        "oldTatar": "نادى"
       },
       {
         "tatar": "үкенүче",
-        "oldtatar": "نادم"
+        "oldTatar": "نادم"
       },
       {
         "tatar": "үтенеп сорау",
-        "oldtatar": "نيار"
+        "oldTatar": "نيار"
       },
       {
         "tatar": "бәйләнеш, мөнәсәбәт, тиңләштерү, чагыштыру, пропорция",
-        "oldtatar": "نِسْبَت"
+        "oldTatar": "نِسْبَت"
       },
       {
         "tatar": "җимерек, хәрабә хәленә килгән",
-        "oldtatar": "ويران"
+        "oldTatar": "ويران"
       },
       {
         "tatar": "сүздә тору",
-        "oldtatar": "وفا"
+        "oldTatar": "وفا"
       },
       {
         "tatar": "кушу",
-        "oldtatar": "وصل"
+        "oldTatar": "وصل"
       },
       {
         "tatar": "салучы, ныгытучы, төзүче",
-        "oldtatar": "واضع"
+        "oldTatar": "واضع"
       },
       {
         "tatar": "булучы / чынлык",
-        "oldtatar": "واقع"
+        "oldTatar": "واقع"
       },
       {
         "tatar": "брәүнең васыятен тормышка ашыручы кеше",
-        "oldtatar": "وصى"
+        "oldTatar": "وصى"
       },
       {
         "tatar": "арадаш, ике арада эш йөртүче / ике әйберне бер-бересе белән бәйләү коралы (чарасы, әйбере)",
-        "oldtatar": "وَاسِطه"
+        "oldTatar": "وَاسِطه"
       },
       {
         "tatar": "һәрвакыт / һич бер вакыт",
-        "oldtatar": " هرگيز"
+        "oldTatar": " هرگيز"
       },
       {
         "tatar": "һаман",
-        "oldtatar": " هميشه"
+        "oldTatar": " هميشه"
       },
       {
         "tatar": "әле дә, һаман да (все ещё) / шунда ук",
-        "oldtatar": " هنوز"
+        "oldTatar": " هنوز"
       },
       {
         "tatar": "һавалану, тәкәббәрлек / күңел теләге,кәеф, һәвәс / гыйшык",
-        "oldtatar": " هَوَی"
+        "oldTatar": " هَوَی"
       },
       {
         "tatar": "бүләк (итеп бирү), багышлау",
-        "oldtatar": " هِبَه"
+        "oldTatar": " هِبَه"
       },
       {
         "tatar": "һидаять (ведение по правильному пути, руководство)",
-        "oldtatar": " هِدایت"
+        "oldTatar": " هِدایت"
       },
       {
         "tatar": "шиксез белү / ышаныч",
-        "oldtatar": " یقین"
+        "oldTatar": " یقین"
       },
       {
         "tatar": "уң як, уң кул / ант, ант итү",
-        "oldtatar": " یمین"
+        "oldTatar": " یمین"
       },
       {
         "tatar": "сул як, сул кул / байлык, муллык / рәхәт тормыш",
-        "oldtatar": " یسار"
+        "oldTatar": " یسار"
       },
       {
         "tatar": "кечкенә, аз / җиңел, ансат",
-        "oldtatar": " یسِر"
+        "oldTatar": " یسِر"
       },
       {
         "tatar": "кайгыралар, борчылалар",
-        "oldtatar": " یحزنون"
+        "oldTatar": " یحزنون"
       },
       {
         "tatar": "яки",
-        "oldtatar": " یاحود"
+        "oldTatar": " یاحود"
       },
       {
         "tatar": "еврей, еврейләр",
-        "oldtatar": " یهود"
+        "oldTatar": " یهود"
       },
       {
         "tatar": "еврей, еврей халыгына бәйләнешле",
-        "oldtatar": " یهودی"
+        "oldTatar": " یهودی"
       }
     ]
   }
